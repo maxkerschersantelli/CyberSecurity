@@ -16,3 +16,10 @@
 /Users/Max/Desktop/unity saves/Zoho/Temp/bin/Debug/Unity.CecilTools.dll
 /Users/Max/Desktop/unity saves/Zoho/Temp/bin/Debug/Mono.Cecil.Pdb.dll
 /Users/Max/Desktop/unity saves/Zoho/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/Max/Desktop/unity saves/Zoho/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/Max/Desktop/unity saves/Zoho/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/Max/Desktop/unity saves/Zoho/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/Max/Desktop/unity saves/Zoho/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/Max/Desktop/unity saves/Zoho/Temp/bin/Debug/BouncyCastle.dll
+/Users/Max/Desktop/unity saves/Zoho/Temp/bin/Debug/JsonFx.Json.dll
+/Users/Max/Desktop/unity saves/Zoho/Temp/bin/Debug/MarkerMetro.Unity.WinLegacy.dll

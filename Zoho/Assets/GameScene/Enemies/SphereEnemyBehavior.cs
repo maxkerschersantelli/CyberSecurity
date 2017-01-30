@@ -13,7 +13,7 @@ public class SphereEnemyBehavior : MonoBehaviour, IEnemy {
 	// Use this for initialization
 	void Start () {
 		target = GameObject.FindGameObjectWithTag ("Target");
-		transform.forward = transform.position - target.transform.position;
+		transform.forward = target.transform.position - transform.position;
 	}
 
 	// Update is called once per frame

@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 624fd499a129e461385cb2707c0317bf
+timeCreated: 1485382756
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cap_1
+    100002: Cap_1_2
+    100004: Cap_1_3
+    100006: Cap_1_4
+    100008: Cap_1_5
+    100010: Cap_2
+    100012: Cap_2_2
+    100014: Cap_2_3
+    100016: Cap_2_4
+    100018: Cap_2_5
+    100020: CV_ArtSmart_Object
+    100022: CV_ArtSmart_Object_2
+    100024: Layer_1
+    100026: //RootNode
+    100028: Path_3804830406537391172
+    100030: Path_4487284446109507644
+    100032: Path_5458705537459640638
+    100034: Path_5766531175631046092
+    100036: Path_6387803618066642394
+    400000: Cap_1
+    400002: Cap_1_2
+    400004: Cap_1_3
+    400006: Cap_1_4
+    400008: Cap_1_5
+    400010: Cap_2
+    400012: Cap_2_2
+    400014: Cap_2_3
+    400016: Cap_2_4
+    400018: Cap_2_5
+    400020: CV_ArtSmart_Object
+    400022: CV_ArtSmart_Object_2
+    400024: Layer_1
+    400026: //RootNode
+    400028: Path_3804830406537391172
+    400030: Path_4487284446109507644
+    400032: Path_5458705537459640638
+    400034: Path_5766531175631046092
+    400036: Path_6387803618066642394
+    2300000: Cap_1
+    2300002: Cap_1_2
+    2300004: Cap_1_3
+    2300006: Cap_1_4
+    2300008: Cap_1_5
+    2300010: Cap_2
+    2300012: Cap_2_2
+    2300014: Cap_2_3
+    2300016: Cap_2_4
+    2300018: Cap_2_5
+    2300020: Path_3804830406537391172
+    2300022: Path_4487284446109507644
+    2300024: Path_5458705537459640638
+    2300026: Path_5766531175631046092
+    2300028: Path_6387803618066642394
+    3300000: Cap_1
+    3300002: Cap_1_2
+    3300004: Cap_1_3
+    3300006: Cap_1_4
+    3300008: Cap_1_5
+    3300010: Cap_2
+    3300012: Cap_2_2
+    3300014: Cap_2_3
+    3300016: Cap_2_4
+    3300018: Cap_2_5
+    3300020: Path_3804830406537391172
+    3300022: Path_4487284446109507644
+    3300024: Path_5458705537459640638
+    3300026: Path_5766531175631046092
+    3300028: Path_6387803618066642394
+    4300000: Path_6387803618066642394
+    4300002: Cap_1
+    4300004: Cap_2
+    4300006: Path_5766531175631046092
+    4300008: Cap_1_2
+    4300010: Cap_2_2
+    4300012: Path_4487284446109507644
+    4300014: Cap_1_3
+    4300016: Cap_2_3
+    4300018: Path_3804830406537391172
+    4300020: Cap_1_4
+    4300022: Cap_2_4
+    4300024: Path_5458705537459640638
+    4300026: Cap_1_5
+    4300028: Cap_2_5
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

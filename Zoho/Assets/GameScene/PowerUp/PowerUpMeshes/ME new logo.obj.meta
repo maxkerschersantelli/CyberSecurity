@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 4f6fc805d9a504d6d97e41cffe208569
+timeCreated: 1485382756
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CV-ArtSmart_Object1_Layer_1_Path_3804830406537391172
+    100002: CV-ArtSmart_Object1_Layer_1_Path_3804830406537391172_Cap_13
+    100004: CV-ArtSmart_Object1_Layer_1_Path_3804830406537391172_Cap_23
+    100006: CV-ArtSmart_Object1_Layer_1_Path_4487284446109507644
+    100008: CV-ArtSmart_Object1_Layer_1_Path_4487284446109507644_Cap_12
+    100010: CV-ArtSmart_Object1_Layer_1_Path_4487284446109507644_Cap_22
+    100012: CV-ArtSmart_Object1_Layer_1_Path_5458705537459640638
+    100014: CV-ArtSmart_Object1_Layer_1_Path_5458705537459640638_Cap_14
+    100016: CV-ArtSmart_Object1_Layer_1_Path_5458705537459640638_Cap_24
+    100018: CV-ArtSmart_Object1_Layer_1_Path_5766531175631046092
+    100020: CV-ArtSmart_Object1_Layer_1_Path_5766531175631046092_Cap_11
+    100022: CV-ArtSmart_Object1_Layer_1_Path_5766531175631046092_Cap_21
+    100024: CV-ArtSmart_Object1_Layer_1_Path_6387803618066642394
+    100026: CV-ArtSmart_Object1_Layer_1_Path_6387803618066642394_Cap_1
+    100028: CV-ArtSmart_Object1_Layer_1_Path_6387803618066642394_Cap_2
+    100030: //RootNode
+    400000: CV-ArtSmart_Object1_Layer_1_Path_3804830406537391172
+    400002: CV-ArtSmart_Object1_Layer_1_Path_3804830406537391172_Cap_13
+    400004: CV-ArtSmart_Object1_Layer_1_Path_3804830406537391172_Cap_23
+    400006: CV-ArtSmart_Object1_Layer_1_Path_4487284446109507644
+    400008: CV-ArtSmart_Object1_Layer_1_Path_4487284446109507644_Cap_12
+    400010: CV-ArtSmart_Object1_Layer_1_Path_4487284446109507644_Cap_22
+    400012: CV-ArtSmart_Object1_Layer_1_Path_5458705537459640638
+    400014: CV-ArtSmart_Object1_Layer_1_Path_5458705537459640638_Cap_14
+    400016: CV-ArtSmart_Object1_Layer_1_Path_5458705537459640638_Cap_24
+    400018: CV-ArtSmart_Object1_Layer_1_Path_5766531175631046092
+    400020: CV-ArtSmart_Object1_Layer_1_Path_5766531175631046092_Cap_11
+    400022: CV-ArtSmart_Object1_Layer_1_Path_5766531175631046092_Cap_21
+    400024: CV-ArtSmart_Object1_Layer_1_Path_6387803618066642394
+    400026: CV-ArtSmart_Object1_Layer_1_Path_6387803618066642394_Cap_1
+    400028: CV-ArtSmart_Object1_Layer_1_Path_6387803618066642394_Cap_2
+    400030: //RootNode
+    2300000: CV-ArtSmart_Object1_Layer_1_Path_3804830406537391172
+    2300002: CV-ArtSmart_Object1_Layer_1_Path_3804830406537391172_Cap_13
+    2300004: CV-ArtSmart_Object1_Layer_1_Path_3804830406537391172_Cap_23
+    2300006: CV-ArtSmart_Object1_Layer_1_Path_4487284446109507644
+    2300008: CV-ArtSmart_Object1_Layer_1_Path_4487284446109507644_Cap_12
+    2300010: CV-ArtSmart_Object1_Layer_1_Path_4487284446109507644_Cap_22
+    2300012: CV-ArtSmart_Object1_Layer_1_Path_5458705537459640638
+    2300014: CV-ArtSmart_Object1_Layer_1_Path_5458705537459640638_Cap_14
+    2300016: CV-ArtSmart_Object1_Layer_1_Path_5458705537459640638_Cap_24
+    2300018: CV-ArtSmart_Object1_Layer_1_Path_5766531175631046092
+    2300020: CV-ArtSmart_Object1_Layer_1_Path_5766531175631046092_Cap_11
+    2300022: CV-ArtSmart_Object1_Layer_1_Path_5766531175631046092_Cap_21
+    2300024: CV-ArtSmart_Object1_Layer_1_Path_6387803618066642394
+    2300026: CV-ArtSmart_Object1_Layer_1_Path_6387803618066642394_Cap_1
+    2300028: CV-ArtSmart_Object1_Layer_1_Path_6387803618066642394_Cap_2
+    3300000: CV-ArtSmart_Object1_Layer_1_Path_3804830406537391172
+    3300002: CV-ArtSmart_Object1_Layer_1_Path_3804830406537391172_Cap_13
+    3300004: CV-ArtSmart_Object1_Layer_1_Path_3804830406537391172_Cap_23
+    3300006: CV-ArtSmart_Object1_Layer_1_Path_4487284446109507644
+    3300008: CV-ArtSmart_Object1_Layer_1_Path_4487284446109507644_Cap_12
+    3300010: CV-ArtSmart_Object1_Layer_1_Path_4487284446109507644_Cap_22
+    3300012: CV-ArtSmart_Object1_Layer_1_Path_5458705537459640638
+    3300014: CV-ArtSmart_Object1_Layer_1_Path_5458705537459640638_Cap_14
+    3300016: CV-ArtSmart_Object1_Layer_1_Path_5458705537459640638_Cap_24
+    3300018: CV-ArtSmart_Object1_Layer_1_Path_5766531175631046092
+    3300020: CV-ArtSmart_Object1_Layer_1_Path_5766531175631046092_Cap_11
+    3300022: CV-ArtSmart_Object1_Layer_1_Path_5766531175631046092_Cap_21
+    3300024: CV-ArtSmart_Object1_Layer_1_Path_6387803618066642394
+    3300026: CV-ArtSmart_Object1_Layer_1_Path_6387803618066642394_Cap_1
+    3300028: CV-ArtSmart_Object1_Layer_1_Path_6387803618066642394_Cap_2
+    4300000: CV-ArtSmart_Object1_Layer_1_Path_3804830406537391172
+    4300002: CV-ArtSmart_Object1_Layer_1_Path_3804830406537391172_Cap_13
+    4300004: CV-ArtSmart_Object1_Layer_1_Path_3804830406537391172_Cap_23
+    4300006: CV-ArtSmart_Object1_Layer_1_Path_4487284446109507644
+    4300008: CV-ArtSmart_Object1_Layer_1_Path_4487284446109507644_Cap_12
+    4300010: CV-ArtSmart_Object1_Layer_1_Path_4487284446109507644_Cap_22
+    4300012: CV-ArtSmart_Object1_Layer_1_Path_5458705537459640638
+    4300014: CV-ArtSmart_Object1_Layer_1_Path_5458705537459640638_Cap_14
+    4300016: CV-ArtSmart_Object1_Layer_1_Path_5458705537459640638_Cap_24
+    4300018: CV-ArtSmart_Object1_Layer_1_Path_5766531175631046092
+    4300020: CV-ArtSmart_Object1_Layer_1_Path_5766531175631046092_Cap_11
+    4300022: CV-ArtSmart_Object1_Layer_1_Path_5766531175631046092_Cap_21
+    4300024: CV-ArtSmart_Object1_Layer_1_Path_6387803618066642394
+    4300026: CV-ArtSmart_Object1_Layer_1_Path_6387803618066642394_Cap_1
+    4300028: CV-ArtSmart_Object1_Layer_1_Path_6387803618066642394_Cap_2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

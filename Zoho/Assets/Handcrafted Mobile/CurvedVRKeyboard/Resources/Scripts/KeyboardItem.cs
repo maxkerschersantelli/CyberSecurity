@@ -37,7 +37,7 @@ namespace CurvedVRKeyboard {
         public void Init () {
             if(letter == null || quadFront == null || quadBack == null) {  // Check if initialized
                 letter = gameObject.GetComponentInChildren<Text>();
-                quadBack = transform.Find(QUAD_BACK).GetComponent<Renderer>();
+//                quadBack = transform.Find(QUAD_BACK).GetComponent<Renderer>();
                 quadFront = transform.Find(QUAD_FRONT).GetComponent<Renderer>();
             }
         }
@@ -104,7 +104,7 @@ namespace CurvedVRKeyboard {
         /// <param name="material">material to be displayed</param>
         private void ChangeMaterial ( Material material ) {
             quadFront.material = material;
-            quadBack.material = material;
+//            quadBack.material = material;
         }
 
         /// <summary>

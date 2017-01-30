@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class GreenPowerUp : MonoBehaviour, IPowerUp {
+public class BluePowerUp : MonoBehaviour, IPowerUp {
 
 	private string color = "green";
 	public float rotationSpeed = 60;

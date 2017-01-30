@@ -33,6 +33,7 @@ public class BulletBehavior : MonoBehaviour {
 			enemy.DisplayPoints ();
 			enemy.Die ();
 		} else if (powerUp != null) {
+			Debug.Log ("POWERUP");
 			powerUp.ActivateShield ();
 		} else if (other.gameObject.tag == "UI") {
 			other.gameObject.GetComponent<GameOverUI> ().ReturnToMenu ();
